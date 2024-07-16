@@ -5,7 +5,7 @@ Este repositório contém uma aplicação que utiliza Docker para facilitar a ex
 #### Configuração
 
 1. **Construir e Executar a Aplicação**
-   - Execute os seguintes comandos para construir e iniciar a aplicação:
+   - Execute os seguintes comandos no diretório flask_app para construir e iniciar a aplicação:
      ```
      docker compose build
      docker compose up app
